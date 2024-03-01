@@ -14,7 +14,7 @@
     font-family: 'fontmio';
     color:  #126a61;
     position: relative;
-    top: 75px;
+    top: 25%;
 }
 .titulo1{
     font-size:40px;
@@ -33,14 +33,15 @@
     max-height: 50%;
     height: 50%;
     min-width: 60px;
-    position: absolute;
+    position: relative;
     z-index: -1;
 }
 .dinner{
     
-    
+    position: relative;
+    width: 75%;
     max-width: auto;
-    max-height: 300px;
+    max-height: auto;
    
 }
 
